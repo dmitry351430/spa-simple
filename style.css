@@ -1,0 +1,35 @@
+.header{
+	border:1px solid #000;
+}
+.header img{
+	margin:20px;
+	height:80px;	
+}
+.footer{
+	border:1px solid #000;
+}
+.content{
+	padding:20px;
+	border:1px solid #000;
+}
+.footer img{
+	margin:20px;
+	height:30px;	
+}
+.article{
+	padding:20px;
+}
+.comments{
+	padding:20px;
+}
+.input_form input{
+	margin:10px;
+}
+.input_form{
+	padding:20px;
+}
+.input_form [type=button]{
+	position:relative;
+	left:50px;
+	cursor:pointer;
+}
